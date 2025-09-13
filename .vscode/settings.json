@@ -1,6 +1,6 @@
 {
     "editor.quickSuggestions": {
-        "other": "off"
+        "other": "on"
     },
     "github.copilot.enable": {
         "*": false

@@ -22,8 +22,8 @@ Jinja 2 Template Engine :
 Basic skeleton for Flask:
 from flask import Flask
 
-app = Flask(__name__) #Creates an instance of flask class which will be you WSGI
+app = Flask(__name__) #Creates an instance of Flask class which will be your WSGI application
 
 
-if __name__=="__main__":
+if __name__ == "__main__":
     app.run()
